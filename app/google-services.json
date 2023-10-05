@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712120386466",
+    "project_id": "mini-pos2",
+    "storage_bucket": "mini-pos2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712120386466:android:1a6f5cd39f2980f668a8fb",
+        "android_client_info": {
+          "package_name": "com.posen82645project.mini_pos2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeaBya-n4EiBIxpBXkL0-kqZSQEMMzgmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
